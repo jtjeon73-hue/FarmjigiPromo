@@ -1,0 +1,35 @@
+{
+    "name": "팜지기 — 스마트 농장 관리 플랫폼",
+    "short_name": "팜지기",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F7F4",
+    "theme_color": "#1B4332",
+    "description": "온실·축사 환경 모니터링, 장비 원격 제어, 에너지·정비·일일 보고서 관리 — 스마트 농장 관리 플랫폼 팜지기",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
